@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### npm yarn for node modules to be installed
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -26,6 +26,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+#deployment link is 
+https://dazzling-salamander-41d952.netlify.app/
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
